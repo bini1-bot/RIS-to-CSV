@@ -1,4 +1,5 @@
-# RIS-to-CSV
+# RIS-to-CSV by using pandas library
+
 #first import csv, defaultdict, rispy and pandas as given here:
 
      import csv
